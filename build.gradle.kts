@@ -14,7 +14,7 @@ dependencies {
   annotationProcessor("org.projectlombok:lombok:1.18.36")
 
   // Removing this dependency will cause build to fail
-  implementation("org.jetbrains:annotations:26.0.1")
+  // implementation("org.jetbrains:annotations:26.0.1")
 }
 
 group = "com.example"
